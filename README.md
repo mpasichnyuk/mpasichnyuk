@@ -31,10 +31,11 @@
 <br/>
 <hr/>
 
-<h3 aligh="center">🐍 Commit history to public repos 🐍</h2>
-<br>
-<img src="https://raw.githubusercontent.com/mpasichnyuk/mpasichnyuk/output/snake.svg" alt="Snake animation" />
- 
+<div aligh="center">
+    <h3 >🐍 Commit history to public repos 🐍</h2>
+    <br>
+    <img src="https://raw.githubusercontent.com/mpasichnyuk/mpasichnyuk/output/snake.svg" alt="Snake animation" />
+</div>
 <!--
 **mpasichnyuk/mpasichnyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
