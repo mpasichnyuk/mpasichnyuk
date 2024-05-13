@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=500&color=535DF7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Mikhail+Pasichnyuk!" />
 </h1>
 
-<h3 align="center"> React and Ruby on Rails Software Engineer </h3>
-<h6 align="center"> based in Charlotte, NC </h6>
+<h2 align="center"> React and Ruby on Rails Software Engineer </h2>
+<h5 align="center"> based in Charlotte, NC </h5>
 
 <br/>
 
