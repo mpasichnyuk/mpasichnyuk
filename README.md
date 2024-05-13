@@ -1,6 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mpasichnyuk.mpasichnyuk" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mpasichnyuk.mpasichnyuk)
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=535DF7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Mikhail+Pasichnyuk!" />
@@ -15,8 +13,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a target="_blank" href="https://mpasichnyuk.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
-      <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" /> 
+      <!-- sqlite, todoist, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
