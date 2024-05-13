@@ -22,8 +22,9 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,ruby,rails,postgres,redux,bootstrap,mui,docker,html,css,javascript,vscode,git,gitlab,github,figma,tailwind,vim,neovim,linux" />
-    <img src="https://skillicons.dev/icons?i=threejs,styledcomponents,idea,python,typescript,anakonda,apple,blender,unreal,godot,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=ruby,react,rails,postgres,redux,bootstrap,mui,html,css,javascript" />
+      <img src="https://skillicons.dev/icons?i=docker,vim,neovim,vscode,git,gitlab,github,figma,tailwind,linux" />
+    <img src="https://skillicons.dev/icons?i=threejs,styledcomponents,idea,python,typescript,apple,blender,unreal,godot,ubuntu" /><br>
 </div>
 
 <br/>
