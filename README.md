@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mikhail+Pasichnyuk!;" />
+    <imsrc="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=535DF7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Mikhail+Pasichnyuk!"
 </h1>
 
 <h3 align="center">A Ruby on Rails and React Software Engineer based in Charlotte, NC</h3>
