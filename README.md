@@ -5,6 +5,7 @@
 </h1>
 
 <h2 align="center"> React and Ruby on Rails Software Engineer </h2>
+
 <h5 align="center"> based in Charlotte, NC </h5>
 
 <br/>
