@@ -9,16 +9,17 @@
 
 <br/>
 
-<div align="center"> 
+<span align="center"> 
   <a target="_blank" href="https://www.linkedin.com/in/mpasichniuk">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-     <p> </p>
+
+    
   <a href="https://mpasichnyuk.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" /> 
       <!-- sqlite, todoist, safari, google-chrome are other good icon options -->
   </a>
-</div>
+</span>
 
  <hr/>
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
