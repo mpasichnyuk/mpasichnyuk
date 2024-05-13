@@ -32,7 +32,7 @@
 <hr/>
 
 <div aligh="center">
-    <h3 >🐍 Commit history to public repos 🐍</h2>
+    <h6>🐍 Commit history</h6>
     <br>
     <img src="https://raw.githubusercontent.com/mpasichnyuk/mpasichnyuk/output/snake.svg" alt="Snake animation" />
 </div>
