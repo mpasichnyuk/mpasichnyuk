@@ -29,7 +29,7 @@
 <hr/>
 
 <div aligh="center">
-    <h6>🐍 Commit history</h6>
+    <h6>🐍 Snake ate my commit history!</h6>
     <br>
     <img src="https://raw.githubusercontent.com/mpasichnyuk/mpasichnyuk/output/snake.svg" alt="Snake animation" />
 </div>
