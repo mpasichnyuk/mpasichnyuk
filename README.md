@@ -1,5 +1,12 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mpasichnyuk.mpasichnyuk" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mikhail+Pasichnyuk!;" />
+</h1>
+
+<h3 align="center">A Ruby on Rails and React Software Engineer based in Charlotte, NC</h3>
+
+<br/>
 <!--
 **mpasichnyuk/mpasichnyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
