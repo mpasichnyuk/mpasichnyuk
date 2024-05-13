@@ -31,7 +31,7 @@
 <br/>
 <hr/>
 
-<h2>🐍 Commit history to public repos 🐍</h2>
+<h3 aligh="center">🐍 Commit history to public repos 🐍</h2>
 <br>
 <img src="https://raw.githubusercontent.com/mpasichnyuk/mpasichnyuk/output/snake.svg" alt="Snake animation" />
  
