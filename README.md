@@ -24,22 +24,14 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ruby,react,rails,postgres,redux,bootstrap,mui,html,css,javascript" />
-      <img src="https://skillicons.dev/icons?i=docker,vim,neovim,vscode,git,gitlab,github,figma,tailwind,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,vim,neovim,vscode,git,gitlab,github,figma,tailwind,linux" />
     <img src="https://skillicons.dev/icons?i=threejs,styledcomponents,idea,python,typescript,apple,blender,unreal,godot,ubuntu" /><br>
 </div>
 
 <br/>
 <hr/>
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/mpasichnyuk/mpasichnyuk/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWIxMHF0bjk3NHF5MTV3YmYxZWhkbGwwdDNibmozZnVra25jNnBteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h96pDOh6nubnUCVbvE/giphy.gif"  />
-</div>
  
 <!--
 **mpasichnyuk/mpasichnyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
